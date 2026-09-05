@@ -22,7 +22,7 @@ Aegis AI is an advanced, client-side simulation of an enterprise AI security fir
 
 ## 🏃 How to Run Locally
 
-Since this is a lightweight frontend application, no complex installation is required.
+Since this is a lightweight frontend application, no complex backend installation is required. You can run it instantly using a simple local server.
 
 1. Clone the repository:
    ```bash
@@ -32,7 +32,12 @@ Since this is a lightweight frontend application, no complex installation is req
    ```bash
    cd aegis-ai-firewall
    ```
-3. Open `index.html` in any modern web browser.
+3. Start a local server (using Python, which is pre-installed on most systems):
+   ```bash
+   python -m http.server 8000
+   ```
+4. Open your web browser and navigate to:
+   **http://localhost:8000**
 
 ## 💡 How to Demo (For Judges)
 
