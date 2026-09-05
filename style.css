@@ -242,6 +242,7 @@ body {
 }
 
 .panel-header {
+    flex-shrink: 0;
     padding: 1.5rem;
     border-bottom: 1px solid var(--border-glass);
 }
@@ -351,6 +352,7 @@ body {
 }
 
 .input-area {
+    flex-shrink: 0;
     padding: 1.5rem;
     border-top: 1px solid var(--border-glass);
     display: flex;
@@ -396,6 +398,7 @@ textarea:focus {
 }
 
 .quick-prompts {
+    flex-shrink: 0;
     padding: 0 1.5rem 1.5rem;
     display: flex;
     flex-wrap: wrap;
@@ -895,6 +898,7 @@ input:checked + .slider:before {
 
 /* Stress Test Feature */
 .stress-test-container {
+    flex-shrink: 0;
     padding: 1.5rem;
     border-top: 1px solid var(--border-glass);
     background: rgba(239, 68, 68, 0.05);
