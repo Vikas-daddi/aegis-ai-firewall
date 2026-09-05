@@ -231,7 +231,7 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
-    height: calc(100vh - 120px);
+    min-height: calc(100vh - 120px);
 }
 
 .panel {
@@ -283,7 +283,7 @@ body {
 /* Simulator Left Panel */
 .chat-window {
     flex-grow: 1;
-    min-height: 0;
+    min-height: 300px;
     padding: 1.5rem;
     overflow-y: auto;
     display: flex;
