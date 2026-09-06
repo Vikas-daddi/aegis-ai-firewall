@@ -1,11 +1,17 @@
+# 🛡️ Aegis AI - Enterprise AI Firewall
+---
+<br/>
 <div align="center">
-  <img src="aegis_logo.jpg" alt="Aegis AI Logo" width="250" style="border-radius: 20px; margin-bottom: 20px;">
-  <h1>Aegis AI - Enterprise AI Firewall 🛡️</h1>
+  <img src="aegis_logo.jpg" alt="Aegis AI App Icon" width="300" style="border-radius: 22px;">
+  <h1>Aegis AI</h1>
 </div>
+<br/>
 
-**🔴 Live Demo: [https://vikas-daddi.github.io/aegis-ai-firewall/](https://vikas-daddi.github.io/aegis-ai-firewall/)**
+Aegis AI is an advanced, premium, and entirely client-side simulation of an enterprise AI security firewall built for the HackCulture Hackathon. Designed to intercept, analyze, and block malicious traffic between users and Large Language Models (LLMs) in real-time without ever exposing sensitive data.
 
-Aegis AI is an advanced, client-side simulation of an enterprise AI security firewall, built for the **HackCulture Hackathon**. It intercepts, analyzes, and blocks malicious traffic between users and Large Language Models (LLMs) in real-time.
+Designed and Developed by [Vikas Daddi](https://github.com/Vikas-daddi)
+
+🌍 Live Demo: [https://vikas-daddi.github.io/aegis-ai-firewall/](https://vikas-daddi.github.io/aegis-ai-firewall/)
 
 ## 🚀 Features
 
