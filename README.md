@@ -1,4 +1,7 @@
-# Aegis AI - Enterprise AI Firewall 🛡️
+<div align="center">
+  <img src="aegis_logo.jpg" alt="Aegis AI Logo" width="250" style="border-radius: 20px; margin-bottom: 20px;">
+  <h1>Aegis AI - Enterprise AI Firewall 🛡️</h1>
+</div>
 
 **🔴 Live Demo: [https://vikas-daddi.github.io/aegis-ai-firewall/](https://vikas-daddi.github.io/aegis-ai-firewall/)**
 
