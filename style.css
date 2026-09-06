@@ -85,6 +85,10 @@ body {
     box-shadow: 0 0 15px var(--accent-red-glow);
 }
 
+.logo-icon i {
+    color: #000000;
+}
+
 .nav-links {
     list-style: none;
     flex-grow: 1;
