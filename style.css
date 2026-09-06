@@ -72,13 +72,17 @@ body {
     -webkit-text-fill-color: transparent;
 }
 
-.custom-logo {
-    width: 38px;
-    height: 38px;
+.logo-icon {
+    background: linear-gradient(135deg, var(--accent-blue), #8b5cf6);
+    -webkit-text-fill-color: white;
+    width: 36px;
+    height: 36px;
     border-radius: 8px;
-    object-fit: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1rem;
     box-shadow: 0 0 15px var(--accent-blue-glow);
-    border: 1px solid var(--border-glass);
 }
 
 .nav-links {
